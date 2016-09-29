@@ -1,4 +1,4 @@
 Print("Hello World!")
-print("Hello everybody")
-Print("Hello my friend")
+print("Hello everybody!")
+Print("Hello my friend!")
 Print("»кув")
